@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "temp-app",
-    "slug": "temp-app",
+    "name": "demo-app",
+    "slug": "demo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "tempapp",
+    "scheme": "demoapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
